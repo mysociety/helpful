@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Helpful
- * Description: Add a fancy feedback form under your posts or post-types and ask your visitors a question. Give them the abbility to vote with yes or no.
+ * Plugin Name: Helpful (mySociety fork)
+ * Description: A fork of Pixelbart’s plugin for adding fancy feedback forms to posts. Pinned to version 4.3.2, because the 4.4.0 update broke our site.
  * Version: 4.3.2
- * Author: Pixelbart
- * Author URI: https://pixelbart.de
+ * Author: mySociety
+ * Author URI: https://github.com/mysociety/helpful
  * Text Domain: helpful
  * License: MIT License
  * License URI: https://opensource.org/licenses/MIT
